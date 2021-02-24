@@ -20,3 +20,17 @@ notifications
 Ban of Users
 Make a interactive calendar that users can use to plan
 Make a sytyem that saves the data to the email of Users
+
+-----------
+-- Roles --
+-----------
+Harsh :Tip and login help and geolocation
+Rahul : Design website and help with location matching
+Shazahiab : The chill timing sytyem thing
+Hamza : Firebase
+
+---------------------
+-- Goals for today --
+---------------------
+Get login page setup
+Start calendar
